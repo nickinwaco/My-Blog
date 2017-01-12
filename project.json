@@ -1,0 +1,154 @@
+{
+  "settings": {
+    "currentPage": "index.html"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Mobirise Mobile Website Builder",
+        "meta_descr": "Free Responsive Website Maker. Create awesome mobile-first websites. Easy and fast - No coding!",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_positionAbsolute": true,
+          "_once": true,
+          "_params": {
+            "logo": true,
+            "brand": "Mobirise",
+            "black": false,
+            "inverse": true,
+            "static": false,
+            "collapsed": false,
+            "items": [
+              {
+                "title": "Home",
+                "href": "#",
+                "active": true
+              },
+              {
+                "title": "About",
+                "href": "#about",
+                "active": false
+              },
+              {
+                "title": "Contact",
+                "href": "#contact",
+                "active": false
+              }
+            ]
+          },
+          "logo": "images/logo.png"
+        },
+        {
+          "_name": "header1",
+          "_params": {
+            "bgImage": "file:///C:/Users/Nick/Dropbox/CF/IMG_152356341072439.jpeg",
+            "centered": true,
+            "overlay": true
+          },
+          "text": "<h1>Nick Rodriguez</h1><p>Random&nbsp;thoughts, awesome mobile-friendly websites &amp; tech&nbsp;for anyone.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" data-app-list-item=\"this\" style=\"\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" data-app-list-item=\"this\" style=\"\">For MAC</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" data-app-list-item=\"this\" style=\"\">Linux</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" data-app-list-item=\"this\" style=\"\">anything else</a>"
+        },
+        {
+          "_name": "social-buttons1",
+          "_group": "Social Media Buttons",
+          "_params": {
+            "color": "white",
+            "inverse": false,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false
+          },
+          "text": "<h2>If you like Mobirise, please share it!</h2>"
+        },
+        {
+          "_name": "msg-box3",
+          "_group": "Text",
+          "_params": {
+            "color": ""
+          },
+          "text": "<h2>Blog</h2><p>5/30/2015. &nbsp;I fell upon Mobirise. &nbsp;This is a crazy easy to use software for deploying mobile friendly websites quickly and easily. &nbsp; It's usable on Mac or PC....sorry linux guys.</p><p>5/25/2015. &nbsp; Today we experienced some crazy flooding. &nbsp;we have received so much rain that Lake Travis has risen&nbsp;20' in 30 days. &nbsp; From being in severe drought to now way too much my office in San Marcos suffered significant damage. &nbsp; &nbsp;Unfortuantely, my office had about 3 feet of water in it and almost everything was ruing including my diploma and frame. &nbsp; Fortunately, I found that the Baylor seal is made from 1oz of .990 pure sliver....always a bright side. &nbsp; &nbsp; Please continue to pray for those who lost everything.<br></p><p>January 2015. &nbsp; I did something that I said I wouldn't every do again, GoRuck Challenge in Austin, Tx. &nbsp; It was cold, raining and just miserable. &nbsp; I think the only \"advantage\" I over others was that I have done it before. &nbsp;But make no mistake that didn't&nbsp;make it any easier. &nbsp; \"All it takes is all you got\"....</p><p>8/25/2015. &nbsp; Mclane Stadium at Baylor opens and we attended the first game. &nbsp;Tons of VIPs and a great stadium</p><p>​<font color=\"#777777\"><span style=\"font-size: 17px; line-height: 27px;\">January 2014. &nbsp;What the hell was I thinking? &nbsp; Just finished my first GoRuck Challenge, miserable. &nbsp;Why would anyone do this? &nbsp; I learned alot about myself and my teammates but I wish we could have done in&nbsp;a less difficult&nbsp;way. &nbsp; All I can say is the Cadre John aka \"Big Daddy\" was awesome. &nbsp;There was nothing we did that he hasn't done for our country as a Marine without question. &nbsp;Many kudos to our servicemen and women who don't know me, my friends or family but protect us everyday without question.</span></font></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" data-app-list-item=\"this\" style=\"\">See all templates</a>"
+        },
+        {
+          "_name": "msg-box5",
+          "_group": "Text",
+          "_params": {
+            "color": "black",
+            "textAlign": "center",
+            "inverse": false,
+            "video": "https://youtu.be/0VVxQzmu428",
+            "loop": false,
+            "autoplay": false,
+            "aspectratio": "4:3"
+          },
+          "image": "images/iphone.png",
+          "text": "<h2>Video embed</h2><p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"http://mobirise.com\" data-app-list-item=\"this\" style=\"\">Learn more</a>"
+        },
+        {
+          "_name": "header2",
+          "_group": "Headers",
+          "_params": {
+            "bgImage": "file:///C:/Users/Nick/Dropbox/CF/IMG_152405731850026.jpeg",
+            "centered": false,
+            "overlay": true
+          },
+          "text": "<h2>Crossfit &amp; Soccer</h2><p>I have been doing Crossfit for about 2 years now. &nbsp; It's bizarre how much my body has changed. &nbsp;I have grown so much in strength but I fight the daily struggle for cardi. &nbsp; As of May 2015, I started playing soccer again and it's helped tremendously. &nbsp; ....a lot of fun too!</p>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://soccerzonesouthaustin.ezleagues.ezfacility.com/default.aspx\" class=\"btn btn-info btn-lg\" data-app-list-item=\"this\" style=\"\">crossfit</a>   <a data-app-btn=\"true\" href=\"http://soccerzonesouthaustin.ezleagues.ezfacility.com/default.aspx\" class=\"btn btn-info btn-lg\" data-app-list-item=\"this\" style=\"\">soccer</a>"
+        },
+        {
+          "_name": "footer1",
+          "_alwaysBottom": true,
+          "_noDrag": true,
+          "text": "Nick Rodriguez © 2015 &nbsp; &nbsp;ph: &nbsp;254 . 640 . &nbsp;1928 &nbsp; email: &nbsp;nickinwaco @ gmail . com<br>"
+        },
+        {
+          "_name": "features1",
+          "_group": "Features",
+          "_params": {
+            "columns": 4,
+            "showButtons": true
+          },
+          "img1": "images/bootstrap.png",
+          "img2": "images/responsive.png",
+          "img3": "images/google-fonts.png",
+          "img4": "images/unlimited-websites.png",
+          "caption1": "<h3>Bootstrap 3</h3><p>Bootstrap 3 has been noted as one of the most reliable and proven frameworks. &nbsp; We have used YII &amp; Codeignitor but HTML5 &amp; CSS3 are the future.</p>",
+          "caption2": "<h3>CompCASt Scoring</h3><p>Live Scoring Engine for Crossfit Competitions. &nbsp;It's not just scoring but actual in-Heat up to the second updates of everyone's status. &nbsp;&nbsp;</p>",
+          "caption3": "<h3>Accelerate&nbsp;</h3><p>A past project that is now wholly owned by Grande Communications. &nbsp;The software allows for MSOs to sell Ethernet based services to the student housing industry.</p>",
+          "caption4": "<h3>Mobrise Websites</h3><p>Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app. &nbsp;Really cool!!!</p>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-default\" data-app-list-item=\"this\" style=\"\">Learn More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://competition.gotomywod.info\" class=\"btn btn-default\" data-app-list-item=\"this\" style=\"\">Learn More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://acceleratemenow.com\" class=\"btn btn-default\" data-app-list-item=\"this\" style=\"\">Learn More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-default\" data-app-list-item=\"this\" style=\"\">Learn More</a>"
+        },
+        {
+          "_name": "msg-box1",
+          "_group": "Text",
+          "_params": {
+            "color": "grey",
+            "inverse": true
+          },
+          "text": "<h2>Building better americans</h2><p>\"All it takes is all you got...\" - unknown. &nbsp; \"Breathe in the light, breathe out the darkness..\" - Cadre John</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://goruck.com\" data-app-list-item=\"this\" style=\"\">Start a journey</a>"
+        },
+        {
+          "_name": "msg-box1",
+          "_group": "Text",
+          "_params": {
+            "color": "black",
+            "inverse": false
+          },
+          "text": "<h2>My Current projects</h2><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://mobirise.com\" data-app-list-item=\"this\" style=\"\">What's Your journey?</a>"
+        }
+      ]
+    }
+  }
+}
